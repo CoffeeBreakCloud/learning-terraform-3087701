@@ -1,3 +1,6 @@
 /.terraform
 .terraform.lock.hcl
 .terraform.tfstate.lock.info
+dev/.terraform
+dev/.terraform.lock.hcl
+dev/.terraform.tfstate.lock.info
